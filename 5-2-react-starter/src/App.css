@@ -45,3 +45,10 @@
 }
 
 /* Add your custom styles below */
+.student-card {
+  background-color: #00c9c3; /* خلفية بيضاء للكرت */
+  color: #000000;           /* النص أسود عشان يبان */
+  padding: 1rem;
+  border-radius: 8px;
+  width: 250px;
+}
